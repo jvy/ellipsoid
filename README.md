@@ -1,10 +1,10 @@
 # ellipsoid
 火星坐标、百度坐标、WGS84坐标相互转换
 
-Hat tip to [require-directory](https://github.com/TroyGoode/node-require-directory). I just needed something simpler.
+Hat tip to [ellipsoid](https://github.com/jvy/ellipsoid.git). I just needed something simpler.
 
 ```
-npm install proj4js
+npm install ellipsoid
 ```
 
 

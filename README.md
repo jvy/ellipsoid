@@ -9,7 +9,8 @@ npm install ellipsoid
 
 
 ```coffee
- const ellipsoid = require('ellipsoid');
+ const Ellipsoid = require('ellipsoid');
+ let ellipsoid=new Ellipsoid();
  let lon=120,lat=37;
  //火星坐标系 (GCJ-02) 转 百度坐标系 (BD-09) 
  ellipsoid.bd09togcj02(lon, lat);

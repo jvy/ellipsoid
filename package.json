@@ -1,0 +1,14 @@
+{
+  "name": "ellipsoid",
+  "version": "0.0.1",
+  "description": "火星坐标、百度坐标、WGS84坐标相互转换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "火星坐标、百度坐标、WGS84坐标相互转换"
+  ],
+  "author": "jvy",
+  "license": "ISC"
+}
